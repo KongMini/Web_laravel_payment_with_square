@@ -35,8 +35,8 @@
             </div>
             <div id="ach-wrapper">
                 <label for="ach-account-holder-name">Full Name</label>
-                <input id="ach-account-holder-name" type="text" placeholder="Jane Doe" name="ach-account-holder-name"
-                    autocomplete="name" />
+                <input id="ach-account-holder-name" type="text" placeholder="Enter your full name"
+                    name="ach-account-holder-name" autocomplete="name" />
                 <span id="ach-message"></span>
                 <button id="ach-button" type="button">Pay with Bank Account</button>
 
